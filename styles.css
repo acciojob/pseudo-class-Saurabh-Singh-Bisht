@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
-/* div{
-	color: rgb(0, 0, 0);
-} */
+div{
+	color: rgb(255, 0, 0);
+}
 span:nth-child(1){
 	color: rgb(255, 0, 0);
 }
