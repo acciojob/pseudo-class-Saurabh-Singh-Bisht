@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
-strong:nth-child(1){
+span:nth-child(1){
 	color: red;
 }
-strong:nth-child(2){
+span:nth-child(2){
 	color: red;
 }
